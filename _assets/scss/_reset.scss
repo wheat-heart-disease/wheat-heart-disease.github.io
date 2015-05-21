@@ -1,0 +1,33 @@
+// Resets from Normalize.css
+// http://necolas.github.io/normalize.css/
+
+a {
+    background: transparent;
+
+    &:focus {
+        outline: thin dotted;
+    }
+
+    a:active, a:hover {
+        outline: 0;
+    }
+}
+
+img {
+    border: 0;
+}
+
+button {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    line-height: normal;
+    text-transform: none;
+    -webkit-appearance: button;
+    cursor: pointer;
+
+    &::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+    }
+}

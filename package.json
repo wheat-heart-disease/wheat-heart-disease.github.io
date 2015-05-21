@@ -1,0 +1,13 @@
+{
+    "name": "wheat-chd",
+    "version": "1.0.0",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-compass": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-connect": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-jekyll": "*",
+        "grunt-git": "*"
+    }
+}
