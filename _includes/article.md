@@ -65,9 +65,10 @@ Now let’s have a look at studies linking wheat and CHD.
 ## Observational Studies on Wheat
 
 Some observational studies linked wheat and waist circumference gains - [waist circumference being a strong predictor of CHD](http://www.ncbi.nlm.nih.gov/pubmed/21116472):
- - a [study](http://www.ncbi.nlm.nih.gov/pubmed/21858094) showed a correlation between consumption of white bread and waist circumference gains
- - a [study](http://www.ncbi.nlm.nih.gov/pubmed/23199451) concluded that: "*reducing white bread, but not whole-grain bread consumption, within a Mediterranean-style food pattern setting is associated with lower gains in weight and abdominal fat*"
- - a [Chinese study](http://www.ncbi.nlm.nih.gov/pubmed/18317472) found that "*vegetable-rich food pattern was associated with higher risk of obesity*" but [as noted by obesity researcher Stephan Guyenet](http://wholehealthsource.blogspot.fr/2008/07/wheat-is-invading-china.html) the association between obesity is in fact stronger with wheat flour than with vegetables
+
+- a [study](http://www.ncbi.nlm.nih.gov/pubmed/21858094) showed a correlation between consumption of white bread and waist circumference gains
+- a [study](http://www.ncbi.nlm.nih.gov/pubmed/23199451) concluded that: "*reducing white bread, but not whole-grain bread consumption, within a Mediterranean-style food pattern setting is associated with lower gains in weight and abdominal fat*"
+- a [Chinese study](http://www.ncbi.nlm.nih.gov/pubmed/18317472) found that "*vegetable-rich food pattern was associated with higher risk of obesity*" but [as noted by obesity researcher Stephan Guyenet](http://wholehealthsource.blogspot.fr/2008/07/wheat-is-invading-china.html) the association between obesity is in fact stronger with wheat flour than with vegetables
 
 A more pertinent result is found in the data of a [large observational study in China](http://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project). [Researchers analysed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1059627/) these data and found a 0.67 correlation between wheat flour intake and CHD. They also found a 0.58 correlation between wheat intake and BMI.
 
