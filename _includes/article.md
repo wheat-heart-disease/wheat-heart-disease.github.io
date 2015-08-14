@@ -42,14 +42,15 @@ So according to these randomized controlled studies whole grains are neutral tow
 Many randomized controlled studies compared wheat with other grains. These trials are usually quite short. So instead of looking at the number of heart attacks, short-term studies focus on risk predictors of CHD like weight gain or markers of inflammation. [Apolipoprotein B](http://en.wikipedia.org/wiki/Apolipoprotein_B) (ApoB) level is another risk factor. It represents the number of LDL particles - often called “bad cholesterol”. It [is now considered to be a better predictor than LDL-C](http://www.ncbi.nlm.nih.gov/pubmed/17170368) - the amount of cholesterol contained in LDL particles. The lower the level of ApoB the lower is the risk of CHD.
 
 Here are some results of these studies:
- - a [study](http://www.ncbi.nlm.nih.gov/pubmed/16392706) concluded that a bread diet may promote fat synthesis/accumulation compared with a rice diet
- - wheat increased [BMI](http://en.wikipedia.org/wiki/Body_mass_index) compared to flaxseed in a [12 months study](http://livar.net/UploadedFiles/Article/17.Flaxseed-ref9.pdf)
- - wheat increased ApoB level by 5.4% compared to flaxseed in a [3 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/10075322)
- - wheat increased ApoB level by 7.5% compared to flaxseed in a [3 months study](http://www.ncbi.nlm.nih.gov/pubmed/11932276)
- - wheat increased ApoB level by 0.05 g/L compared to flaxseed in a [12 months study](http://www.ncbi.nlm.nih.gov/pubmed/17981439)
- - oat decreased ApoB level by 13.7% while wheat had no significant effect in a [21 days study](http://www.ncbi.nlm.nih.gov/pubmed/1654739)
- - wheat increased the number of LDL particles by 14% while oat decreased them by 5% in a [12 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/12145006)
- - ApoA to ApoB ratio (a risk predictor similar in efficiency to ApoB alone - here the higher the better) was increased by 4.7% for oat bran and 3.9% for rice bran compared to wheat bran in a [4 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/2169702)
+
+- a [study](http://www.ncbi.nlm.nih.gov/pubmed/16392706) concluded that a bread diet may promote fat synthesis/accumulation compared with a rice diet
+- wheat increased [BMI](http://en.wikipedia.org/wiki/Body_mass_index) compared to flaxseed in a [12 months study](http://livar.net/UploadedFiles/Article/17.Flaxseed-ref9.pdf)
+- wheat increased ApoB level by 5.4% compared to flaxseed in a [3 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/10075322)
+- wheat increased ApoB level by 7.5% compared to flaxseed in a [3 months study](http://www.ncbi.nlm.nih.gov/pubmed/11932276)
+- wheat increased ApoB level by 0.05 g/L compared to flaxseed in a [12 months study](http://www.ncbi.nlm.nih.gov/pubmed/17981439)
+- oat decreased ApoB level by 13.7% while wheat had no significant effect in a [21 days study](http://www.ncbi.nlm.nih.gov/pubmed/1654739)
+- wheat increased the number of LDL particles by 14% while oat decreased them by 5% in a [12 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/12145006)
+- ApoA to ApoB ratio (a risk predictor similar in efficiency to ApoB alone - here the higher the better) was increased by 4.7% for oat bran and 3.9% for rice bran compared to wheat bran in a [4 weeks study](http://www.ncbi.nlm.nih.gov/pubmed/2169702)
 
 These studies show that some grains like oat improve the risk factors of CHD compared to wheat. In addition, these studies often show an absolute improvement of the CHD risk profile in groups eating oat and an absolute deterioration in groups eating wheat. Although we cannot say for sure, it would suggest that oat is protective against CHD - which is confirmed by [other studies](http://www.ncbi.nlm.nih.gov/pubmed/14520027) - while wheat increase the risk of CHD.
 
